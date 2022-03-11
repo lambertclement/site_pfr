@@ -2,25 +2,17 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet"></head> 
 <body>
 
-
-
-
-<title> Qui sommes nous ? </title>
-
-
-
-<div class ="photo"> 
+    <div class ="photo"> 
 <img src="header_ressources_humaines.jpg" alt="quisommesnous"> 
-<div class="texte_centrer">Qui sommes nous ?</div>
-</div> 
+</div>
 
-<div class ="tout"> 
+<h1> Qui sommes nous ? </h1> 
 
 <p> Les équipes de l'aéroport Charles de gaulle vous accueillent depuis 1974 au sein de ces infrastructures pour vous proposer la meilleure expérience possible de voyage. </p>
 
 <p> L'aéroport Charles De Gaulle c'est plus de 100 métiers sur les plates-formes ce qui confèrent au Groupe ADP son caractère unique. Découvrez ici nos familles de métiers. </p>
 
-<h1> Nos métiers : </h1> 
+<p> Nos métiers : </p> 
 
 <li> L'exploitation et la maintenance aéroportuaire </li> 
 
@@ -79,8 +71,6 @@ Focus métiers :
 <li>Responsable travaux aménagements</li>
 <li>Chargé de gestion locative</li>
 
-</div>
-
 <video width=600  height=480 controls poster="vignette.jpg">
   <source src="Découvrez la culture dentreprise du Groupe ADP.mp4" type="video/mp4">
 </video>
@@ -88,3 +78,5 @@ Focus métiers :
 <div class ="photo"> 
 <img src="salarié.jpg" alt="quisommesnous"> 
 </div>
+    <!-- ATTENTION import Pied de page -->
+    <?php include 'footer.php' ?>
