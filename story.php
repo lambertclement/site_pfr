@@ -31,7 +31,7 @@ Retour sur 60 ans d'Histoire ! </p>
 
 <p> A peine 16 ans après la Seconde Guerre mondiale, Orly est le symbole tangible d'un monde en plein changement. En effet, comme toutes les grandes infrastructures de transport, le nouvel grand aéroport de l'Ouest de Paris s'adapte aux flux et aux nouvelles technologies. Véritable prouesse architecturale, technique et esthétique, il représente non seulement le présent, mais aussi le futur d'une France en mouvement. </p>
 
-<h3> Une modernité et une technique selon les architectes Henri Vicariot et Jean Prouvé </h3>
+<h3> Une modernité et une technique selon les architectes Henri Vicariot et Jean Prouvé. </h3>
 
 <div class ="photo"> 
 <img src="orly1960.jpg" alt="story"> 
