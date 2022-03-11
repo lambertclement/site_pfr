@@ -132,5 +132,37 @@ h4{
     text-decoration: underline;
 
 }
+/* Who */
 
+.photo {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
+.texte_centrer {
+  position: absolute;
+  font-size: 60px;
+  top: 80%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+.tout {
+	color: navy;
+	font-family: 'Roboto', sans-serif;
+}
+/* Story */
+.photo {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
+.texte_centrer {
+  position: absolute;
+  font-size: 60px;
+  top: 80%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
 
