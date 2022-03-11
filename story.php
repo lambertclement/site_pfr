@@ -19,6 +19,7 @@
 
 <div class ="photo"> 
 <img src="cdginauguration.jpg" alt="story"> 
+<div class="texte_centrer">Histoire de l'aéroport</div>
 </div>
 
 <h2> L'aéroport de Paris-Orly fête en 2021 ses 60 ans </h2> 
